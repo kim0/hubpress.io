@@ -1,0 +1,20 @@
+# Azure performance benchmark
+
+As a unix hacker! I like
+to play with bash lie this
+
+[source,bash]
+----
+ls -ltr | wc -l
+----
+
+and python too
+
+[source,python]
+----
+import glob
+
+def x():
+  print("koko")
+----
+
