@@ -28,3 +28,12 @@ puts Asciidoctor.convert_file('sample.adoc', :header_footer => true)  # <2>
 ----
 <1> Imports the library
 <2> Reads, parses and renders the file
+
+[source,PowerShell]
+----
+get-disk | get-content
+cd c:\
+update-help
+----
+
+That's all folks!
